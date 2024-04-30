@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Dream Travel Project",
+    "imageSrc": "projects/spacetravel.png",
+    "description": "Book your Space Vacation",
+    "skills": ["HTML", "CSS", "Figma", "JavaScript"],
+    "demo": "https://stanetc.github.io/Dream-Travel/",
+    "source": "https://github.com/Stanetc/Dream-Travel"
+  },
+  {
+    "title": "Dice Game Project",
+    "imageSrc": "projects/dicegame.png",
+    "description": "Dice Game - Hold number, two players, max score 100",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://stanetc.github.io/Dice-Game/",
+    "source": "https://github.com/Stanetc/Dice-Game"
+  },
+  {
+    "title": "GM Number Project",
+    "imageSrc": "projects/gmngame.png",
+    "description": "Guess My Number Game - single player",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://stanetc.github.io/Game-GMN/",
+    "source": "https://github.com/Stanetc/Game-GMN"
+  },
+  {
+    "title": "Moda Project",
+    "imageSrc": "projects/moda.png",
+    "description": "Moda online store",
+    "skills": ["HTML", "CSS", "React", "Vite"],
+    "demo": "https://stanetc.github.io/project-moda/",
+    "source": "https://github.com/Stanetc/project-moda"
+  },
+  {
+    "title": "Quiz Project",
+    "imageSrc": "projects/quizreact.png",
+    "description": "Quiz for React",
+    "skills": ["HTML", "CSS", "React", "Vite"],
+    "demo": "https://stanetc.github.io/quiz-react-project/",
+    "source": "https://github.com/Stanetc/quiz-react-project"
+  },
+  {
+    "title": "Investmen Project",
+    "imageSrc": "projects/investment.png",
+    "description": "Investment Calculator",
+    "skills": ["HTML", "CSS", "React", "Vite"],
+    "demo": "https://stanetc.github.io/investment-calculator/",
+    "source": "https://github.com/Stanetc/investment-calculator"
+  },
+  {
+    "title": "Task Project",
+    "imageSrc": "projects/taskmanager.png",
+    "description": "Task Manager",
+    "skills": ["HTML", "CSS", "React", "Vite", "Tailwind"],
+    "demo": "https://stanetc.github.io/task-manager/",
+    "source": "https://github.com/Stanetc/task-manager"
+  },
+  {
+    "title": "Food App Project",
+    "imageSrc": "projects/foodapp.png",
+    "description": "Order and cashout",
+    "skills": ["HTML", "CSS", "React", "Vite"],
+    "demo": "https://stanetc.github.io/food-app/",
+    "source": "https://github.com/Stanetc/food-app"
+  }
+]

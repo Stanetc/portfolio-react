@@ -1,0 +1,29 @@
+[
+  {
+    "place": "Bulgaria, Varna",
+    "organisation": "AA.bg",
+    "startDate": "February, 2021",
+    "endDate": "July, 2022",
+    "experiences": ["Front End Fundamentals", "JavaScript Advanced"],
+    "imageSrc": "history/advance.png"
+  },
+  {
+    "place": "Online Platform",
+    "organisation": "Udemy.com",
+    "startDate": "August, 2023",
+    "endDate": "January 2024",
+    "experiences": ["Web Development 2024", "JavaScript Expert 2024"],
+    "imageSrc": "history/udemy.png"
+  },
+  {
+    "place": "Online Platform",
+    "organisation": "Udemy.com",
+    "startDate": "January, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "React - Complete 2024",
+      "Hooks, Redux, React Router, Next.js, TypeScript, Unit Tests, React Patterns"
+    ],
+    "imageSrc": "history/udemy.png"
+  }
+]
